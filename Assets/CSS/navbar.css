@@ -1,6 +1,6 @@
 nav
 {
-    /* padding-top: 2vh; */
+    padding-top: 4vh;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -15,6 +15,6 @@ nav button
     background-color: var(--background);
     border: 0px;
     color: white;
-    /* padding: 20px; */
+    padding: 20px;
     padding-right: 2vw;
 }
